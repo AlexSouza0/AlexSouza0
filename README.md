@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente Estou estudando python. git, github
+Atualmente Estou estudando Python. Git, GitHub
 
 
 # 💻 Tech Stack:
